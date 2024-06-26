@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584209020 source:d:\git\projects\singly-linked-lists\main.cpp
+	<iostream>
+
+1584209020 source:d:\git\projects\singly-linked-lists\singly-linked-lists\main.cpp
+	<iostream>
+
